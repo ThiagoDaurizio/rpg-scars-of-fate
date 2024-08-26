@@ -2,6 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+
+body {
+  background-image: 
+  radial-gradient(circle, rgba(0,0,0,0.30584733893557425) 0%, rgba(5,5,5,0.35066526610644255) 50%, rgba(0,0,0,0.4318977591036415) 71%),
+    url('/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+i {
+  opacity: 0.8;
+}
+
+/* 
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -30,4 +53,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */

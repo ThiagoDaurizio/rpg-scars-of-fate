@@ -1,0 +1,316 @@
+{
+  "classesList": [
+    {
+      "id": "warriorId",
+      "name": "Guerreiro",
+      "subtitle": "O que seria a honra sem a glória?", 
+      "description": "Guerreiros muitas vezes atuam como mercenários para conseguirem sobreviver e ter glória e dinheiro, muitas vezes se alistando como soldados pessoais de algum lorde ou então aceitando missões e trabalhos para faturar uma grana ou até mesmo conseguir tesouros e causa que acham dignas de seu tempo e esforço. Sempre focados em aperfeiçoar suas artes de combate são inatos com vários tipos de armas e armaduras, podendo executar como excelentes combatentes causando feridas profundas em seu inimigos ou até mesmo sendo resilientes para ataques dos mesmos.",
+      "roles": ["DPS meele", "Aggro"],
+      "story": {
+        "title": "Guerreiros...",
+        "subtitle": "Os aventureiros natos",
+        "body": "Uma guilda composta por aventureiros de todos os lugares de Astera, dispostos a se aventurar em busca de tesouros ou lutarem por causas que julgam serem dignas de seus esforços. Muitos seguem o lema de sua guilda de 'espíritos livres' não se apegando a culturas, deuses ou padrões fixos de vida, deixando o futuro para o amanhã, o passado para ontem e o presente para o hoje. <br/>Nada que uma boa lâmina e um forte escudo não possa combater e resistir.",
+        "scenes": {
+          "photo1": {
+            "title": "Dinheiro na mão, pronta para a próxima!",
+            "body": "(...) “<i>Pântano, musgos, fedo</i>”, indagou Kelina em tom de resmungo olhando ao redor quando num piscar de olhos pula de um arbusto próprio um ser escamoso na tentativa de lhe dar uma punhalada com o que parecia ser uma faca tribal de pedra afiada. “<i>Aaaargg, era só o que me faltava, povo largato. Para trás ser escamoso!!</i>” desferiu Kelina em uma manobra ágil desviando da lâmina e entrando em batalha com o atacante. “<i>É bom eles me pagarem mais 2 moedas de ouro pelo serviço! Uma pela mentira de ser um pantano abandonado, e outra só por ter que olhar para sua cara de bunda!</i>” retornou Kelina em um tom de voz mais calma enquanto focava em um ponto alvo para desferir seu ataque.<br/><br/>Mais tarde, enquanto entrava na taberna Kelina olhou ao redor e logo reconheceu um semblante familiar.<br/><br/> “<i>Oras… então é você, seguinte… CINCO moedas de ouro.</i>” soltou Kelina com um tom sério intimidador sacando algo de sua bolsa.<br/><br/> “<i>Mas como assim? o combinado foi três moedas!</i>” indagou a voz trêmula confusa.<br/><br/> “<i>TRÊS moedas de ouro, para lhe buscar ISSO!</i>” disse Kelina jogando um medalhão dourado na mesa com uma pedra preta brilhante cravada nele. “<i>AGORA para ter de lidar com Povo Largato e ainda por você ter escondido esta informação de mim, são mais duas! Vem cá, você acha que tenho cara de boba Sherlon?</i>” terminou Kelina enquanto pegava outra coisa de sua bolsa, uma cabeça de Povo Largato dentro dela olhando diretamente nos olhos de Sherlon.”<br/><br/> “<i>Peço perdão minha cara, eu… eu…</i>” dizia Sherlon perdido nas palavras.<br/><br/> “<i>Achou que ninguém ia desconfiar da malandragem né? kkkk</i>” interrompeu Kelina dando risada em um tom mais descontraído porém com um clima ainda sério olhando direto para os olhos dele.  “<i>Olha, ja fiz MUITAS missões pela guilda, tanto eu quanto meus camaradas… logo já tive MUITOS contratantes e óbvio que você não é o primeiro a tentar nos passar a perninha né meu caro...</i>” terminou Kelina em um tom sereno enquanto sentava na cadeira a sua frente.<br/><br/> “<i>Não mas é que…</i>” começou a indagar Sherlon em defesa. “<i>É que você pensou que sou burra né</i>” terminou Kelina cortando sua frase mais rápido que uma lâmina fria.  “<i>Assim, você sabe os termos da guilda né? Esconder informações, tentar tirar vantagem, tentar nos enrolar… há!</i>” falou Kelina levantando o dedo brecando Sherlon de falar enquanto ela continuava falando  “<i>Isso custa o TRIPLO do valor contratado! eu ainda estou sendo boazinha, e te cobrando apenas 2 moedas, agora se quiser que levo isso ao superior e você tem de pagar nove… e ai?</i>” terminou Kelina em um tom de deboche com intimidação.<br/><br/>“<i>Tome suas cinco moedas de ouro</i>” disse Sherlon em tom de resmungo enquanto entregava as moedas e pegava seu medalhão levantando da mesa para sair da taverna. “<i>E como é que fala?</i>” retrucou Kelina em um claro tom de deboche fazendo uma pausa. “<i>Isso! Muito obrigado pelos seus serviços Kelina. Ohh bom menino hahah</i>” terminou ela com tom de piada enquanto Sherlon saia a passos pesados da taverna. (...)",
+            "image_path": "warrior_1"
+          },
+          "photo2": {
+            "title": "Quem ganha um ponto, aumenta um conto?",
+            "body": "(...) “<i>Sim, um grupo de insetos esquisitos, aff calafrios só de lembrar…</i>”, dizia uma voz ecoando na noite escura ao das floresta ao pé de uma fogueira. “<i>E pior! insectoides de um culto que comia cérebros.</i>” continuou a voz narrando, para olhos atentos a sua história enquanto o narrador limpava a lâmina de seu machado suja com o que parecia ser um ectoplasma roxo.<br/><br/>“<i>Ihhh Gildor, isso aí tá me cheirando a suas histórias pra boi dormir hein kkkk</i>”, indagou uma voz do grupo em tom descontraído.“<i>hahahahaha</i>”, riu o resto em um coro contínuo.<br/><br/>“<i>Podem rir à vontade, mas eu juro, eram criaturas de outro mundo, com olhos que brilhavam no escuro e garras afiadas como espadas</i>”, Gildor respondeu, tentando manter a seriedade, mas esboçando um leve sorriso ao ver que o grupo estava mais interessado em zombar do que em acreditar. “<i>Acreditem ou não, foi um dos combates mais desafiadores que já enfrentei.</i>”<br/><br/>“<i>E você derrotou todos eles sozinho, né? Claro, Gildor, claro…</i>”, uma das companheiras do grupo, Lyria, respondeu com uma voz carregada de sarcasmo, enquanto jogava mais lenha na fogueira.<br/><br/>“<i>Bem, quase todos…</i>”, respondeu Gildor, levantando uma sobrancelha e inclinando-se para mais perto da fogueira, criando um clima de suspense. “<i>O líder deles… uma criatura enorme, com tentáculos saindo da cabeça… ele conseguiu escapar. Mas não se preocupem, eu vou encontrá-lo novamente, e dessa vez, ele não vai ter tanta sorte.</i>”, O grupo se entreolhou, e por um momento, o ar de zombaria deu lugar a uma sensação de desconforto. Mesmo que estivessem brincando, algo na voz de Gildor parecia real demais.<br/><br/>“<i>Bom, seja lá como for, amanhã temos uma longa jornada até as Colinas Cinzentas. Melhor descansarmos agora, antes que você comece a falar que lutou com dragões também</i>”, disse Lyria, quebrando o clima e deitando-se ao lado da fogueira.<br/><br/>Gildor riu, mas não disse mais nada. Ele sabia que havia contado a verdade, mas sabia também que histórias como essa só faziam sentido quando eram vividas. A noite avançava, e logo, o único som que se ouvia era o crepitar da fogueira e o canto distante de corujas. (...)",
+            "image_path": "warrior_2"
+          }
+        }
+      },
+      "theme": {
+        "color": "#de0000",
+        "icon": "Warrior",
+        "image_path": "warrior_"
+      },
+      "skills": [
+        {
+          "name": "Líder Nato",
+          "body": "",
+          "icon_path": "warrior_"
+        },
+        {
+          "name": "Combate",
+          "body": "",
+          "icon_path": "warrior_"
+        },
+        {
+          "name": "Proteção",
+          "body": "",
+          "icon_path": "warrior_"
+        },
+        {
+          "name": "Um X marca o local!",
+          "body": "",
+          "icon_path": "warrior_"
+        }
+      ]
+    },
+
+    {
+      "id": "clericId",
+      "name": "Clérigo",
+      "subtitle": "Não temam irmãos e irmãs! a Luz de Orlin esta conosco!", 
+      "description": "",
+      "roles": ["Suporte", "Aggro"],
+      "story": {
+        "title": "Clérigos...",
+        "subtitle": "Os sacerdotes de batalha da Luz",
+        "body": "",
+        "scenes": {
+          "photo1": {
+            "title": "Não temo ao mal!",
+            "body": "(...) Ja passou da hora de você pagar pelos seus pecados ser vil! Podes até tentar fugir da morte retornando nesta forma de ossos, mas não podes fugir da luz! Seu fim... chegou.",
+            "image_path": "cleric_1"
+          },
+          "photo2": {
+            "title": "A luz cura e purifica!",
+            "body": "Não se preocupe a luz de Orlin esta contigo até nos cantos mais escuro do mundo, e graças à ele podereis te curar e suas feridas cicatrizar... viu!? bem melhooor. (...)",
+            "image_path": "cleric_2"
+          }
+        }
+      },
+      "theme": {
+        "color": "#e3d800",
+        "icon": "Cleric",
+        "image_path": "cleric_"
+      },
+      "skills": [
+        {
+          "name": "Cura",
+          "body": "",
+          "icon_path": "cleric_"
+        },
+        {
+          "name": "Combate",
+          "body": "",
+          "icon_path": "cleric_"
+        },
+        {
+          "name": "Proteção",
+          "body": "",
+          "icon_path": "cleric_"
+        },
+        {
+          "name": "Poder Divino",
+          "body": "",
+          "icon_path": "cleric_"
+        }
+      ]
+    },
+
+    {
+      "id": "mageId",
+      "name": "Mago",
+
+      "subtitle": "Prefere ser, huuum... incinerado ou congelado?", 
+      "description": "",
+      "roles": ["Ranged DPS", "Controle"],
+      "story": {
+        "title": "Magos...",
+        "subtitle": "Os dissípulos de Sar-Elam",
+        "body": "",
+        "scenes": {
+          "photo1": {
+            "title": "OPA OPA!! parado ai! Rajada... CONGELANTE!!",
+            "body": "",
+            "image_path": "mage_1"
+          },
+          "photo2": {
+            "title": "BOLA DE FOGO!! ihh virou carvão.",
+            "body": "",
+            "image_path": "mage_2"
+          }
+        }
+      },
+      "theme": {
+        "color": "#ae0fbd",
+        "icon": "Mage",
+        "image_path": "mage_"
+      },
+      "skills": [
+        {
+          "name": "Sinergia",
+          "body": "",
+          "icon_path": "mage_"
+        },
+        {
+          "name": "Esfriou né?",
+          "body": "",
+          "icon_path": "mage_"
+        },
+        {
+          "name": "Nossa, que calor!",
+          "body": "",
+          "icon_path": "mage_"
+        },
+        {
+          "name": "Grimório",
+          "body": "",
+          "icon_path": "mage_"
+        }
+      ]
+    },
+
+    {
+      "id": "druidId",
+      "name": "Druida",
+      "subtitle": "Se correr a raizes te prende! Se ficar... minha flecha te acerta.", 
+      "description": "",
+      "roles": ["ranged DPS", "Suporte"],
+      "story": {
+        "title": "Druidas...",
+        "subtitle": "Os filhos das florestas",
+        "body": "",
+        "scenes": {
+          "photo1": {
+            "title": "Hora de enfrentar a ira da natureza!",
+            "body": "",
+            "image_path": "druid_1"
+          },
+          "photo2": {
+            "title": "Péssimo dia para ficar na minha mira!",
+            "body": "",
+            "image_path": "druid_2"
+          }
+        }
+      },
+      "theme": {
+        "color": "#1ab829",
+        "icon": "Druid",
+        "image_path": "druid_"
+      },
+      "skills": [
+        {
+          "name": "Precisão",
+          "body": "Druidas usam de sua maestria com arco e flecha em combate para abater seus inimigos a distância evitando confrontos diretos, contando com dano e controle para afastar seus inimigos.",
+          "icon_path": "druid_"
+        },
+        {
+          "name": "Cura",
+          "body": "Usando dos poderes de vida de Elora, os druidas podem ser capazes de curar ferimentos de aliados ou purificar venenos de seus corpos. Sendo suporte consistente para seu grupo.",
+          "icon_path": "druid_"
+        },
+        {
+          "name": "Ira da Natureza",
+          "body": "Caso apenas suas flechas não resolvam os druidas podem ser capazes de invocar da floresta contra seus inimigos prendendo-os com raizes, envenenando-os ou até chamando criaturas para axuliar-los.",
+          "icon_path": "druid_"
+        },
+        {
+          "name": "Entidades Selvagens",
+          "body": "Os druidas ao contrário de outras classes não seguem apenas uma entidade mas sim um conjunto delas: Elora a Mãe da Criação e seus filhos Urdi o Selvagem, Fir a Caçadora, Erekhil o Guardião... são apenas alguns deles.",
+          "icon_path": "druid_"
+        }
+      ]
+    },
+
+    {
+      "id": "acolyteId",
+      "name": "Acólito",
+      "subtitle": "As pessoas temem aquilo que não podem entender...", 
+      "description": "",
+      "roles": ["Dual DPS", "Controle"],
+      "story": {
+        "title": "Acólitos...",
+        "subtitle": "Os renegados pelo destino",
+        "body": "",
+        "scenes": {
+          "photo1": {
+            "title": "Esta será tua nova cara!",
+            "body": "",
+            "image_path": "acolyte_1"
+          },
+          "photo2": {
+            "title": "Um padrão de runas deveras diferente...",
+            "body": "",
+            "image_path": "acolyte_2"
+          }
+        }
+      },
+      "theme": {
+        "color": "#000",
+        "icon": "Acolyte",
+        "image_path": "acolyte_"
+      },
+      "skills": [
+        {
+          "name": "Lâmina Maldita",
+          "body": "",
+          "icon_path": "acolyte_"
+        },
+        {
+          "name": "Sabotador",
+          "body": "",
+          "icon_path": "acolyte_"
+        },
+        {
+          "name": "Pacto",
+          "body": "",
+          "icon_path": "acolyte_"
+        },
+        {
+          "name": "Sifão de Alma",
+          "body": "",
+          "icon_path": "acolyte_"
+        }
+      ]
+    },
+
+    {
+      "id": "wildenId",
+      "name": "Selvagem",
+      "subtitle": "Ouçam o chamado! O mundo é selvagem!", 
+      "description": "",
+      "roles": ["Meele DPS", "Aggro"],
+      "story": {
+        "title": "Selvagens...",
+        "subtitle": "Os seguidores do indomável",
+        "body": "",
+        "scenes": {
+          "photo1": {
+            "title": "Arrrg, a fúria de Urdi corre em inhas veias!",
+            "body": "",
+            "image_path": "wilden_1"
+          },
+          "photo2": {
+            "title": "Posso sentir, posso ouvir, os uivos do mundos... isso...",
+            "body": "",
+            "image_path": "wilden_2"
+          }
+        }
+      },
+      "theme": {
+        "color": "#dea112",
+        "icon": "Wilden",
+        "image_path": "wilden_"
+      },
+      "skills": [
+        {
+          "name": "Fúria Imparável",
+          "body": "",
+          "icon_path": "wilden_"
+        },
+        {
+          "name": "Selvagem",
+          "body": "",
+          "icon_path": "wilden_"
+        },
+        {
+          "name": "Ferocidade",
+          "body": "",
+          "icon_path": "wilden_"
+        },
+        {
+          "name": "Ancestralidade",
+          "body": "",
+          "icon_path": "wilden_"
+        }
+      ]
+    }
+  ]
+}
