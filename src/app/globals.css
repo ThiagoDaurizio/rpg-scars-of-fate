@@ -24,6 +24,29 @@ i {
   opacity: 0.8;
 }
 
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(151, 165, 185, 0.2);
+  border-radius: 500px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(251, 191, 36, 0.4);
+  border-radius: 500px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(251, 191, 36, 0.6);
+}
+
 /* 
 :root {
   --foreground-rgb: 0, 0, 0;
