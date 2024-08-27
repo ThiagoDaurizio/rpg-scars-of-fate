@@ -39,7 +39,7 @@ const index = () => {
           })}
         </div>
 
-        <CompDivisor flex={'row'}/>
+        <CompDivisor />
 
         <div>
           <PortraitSlider classePath={selectedClasse.theme.image_path} />
@@ -48,8 +48,8 @@ const index = () => {
 
       <div className="flex-1">
         <div className="flex justify-center w-full gap-8">
-          <button className="flex gap-1 items-center bg-slate-700 p-1 px-2 rounded-md border border-slate-400 transition duration-300 hover:bg-slate-600" onClick={() => set_selectedInfo(true)}>Descrição</button>
-          <button className="flex gap-1 items-center bg-slate-700 p-1 px-2 rounded-md border border-slate-400 transition duration-300 hover:bg-slate-600" onClick={() => set_selectedInfo(false)}>História</button>
+          <button className={`flex gap-1 items-center bg-slate-${selectedInfo ? '700' : '400'} text-amber-${selectedInfo ? '400' : '200'} p-1 px-2 rounded-md border border-slate-400 transition duration-300 hover:bg-slate-600`} onClick={() => set_selectedInfo(true)}>Descrição</button>
+          <button className={`flex gap-1 items-center bg-slate-${!selectedInfo ? '700' : '400'} text-amber-${!selectedInfo ? '400' : '200'} p-1 px-2 rounded-md border border-slate-400 transition duration-300 hover:bg-slate-600`} onClick={() => set_selectedInfo(false)}>História</button>
         </div>
         <div>
           {selectedInfo 
