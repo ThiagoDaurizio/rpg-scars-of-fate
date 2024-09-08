@@ -21,18 +21,18 @@ const index = () => {
   }
 
   return (
-    <div className="flex gap-4">
+    <div className="flex flex-col lg:flex-row gap-4">
       <div className="flex flex-col gap-4">
-        <div className="flex gap-2">
+        <div className="flex flex-wrap gap-2 justify-center">
           {data?.classesList.map((item) => {
             const IconComponent = classesIcons[item.theme.icon as keyof typeof classesIcons];
 
             return(
-              <button key={item.id} className="flex gap-1 items-center bg-slate-700 p-1 px-2 rounded-md border border-slate-400 transition duration-300 hover:bg-slate-600" 
+              <button key={item.id} className={`h-[36px] min-w-[36px] flex items-center justify-center gap-1 flex-shrink-0 p-1 px-2 rounded-md border ${selectedClasse.id === item.id ? 'border-slate-200' : 'border-slate-400'} ${selectedClasse.id === item.id ? 'bg-slate-600' : 'bg-slate-700'} transition duration-300 hover:bg-slate-600`} 
                 onClick={() => handleClasseCTA(item.id)}>
-                {IconComponent && <IconComponent style={{color: item.theme.color}}/>}
+                {IconComponent && <IconComponent className="flex-shrink-0" style={{color: item.theme.color}}/>}
                 {selectedClasse.id === item.id && (
-                  <p>{item.name}</p>
+                  <p className="hidden xm:block">{item.name}</p>
                 )}
               </button>
             )

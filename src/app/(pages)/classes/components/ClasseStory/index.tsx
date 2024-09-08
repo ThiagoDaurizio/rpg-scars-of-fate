@@ -16,7 +16,7 @@ const ClasseStory = ( { classe }:IProps ) => {
 
   return (
     <div className="h-full">
-      <h4 className="font-semibold flex gap-1 items-center">
+      <h4 className="font-semibold flex gap-1 items-center mt-4">
         {IconComponent && <IconComponent style={{color: classe.theme.color}} className="text-xl" />}
         {classe.story.title}
       </h4>
@@ -26,13 +26,13 @@ const ClasseStory = ( { classe }:IProps ) => {
       
       
       <div className="flex flex-col gap-4 mt-10">
-        <ScenesContent 
-          title={classe.story.scenes.photo1.title}
-          body={classe.story.scenes.photo1.body}
-          image_path={classe.story.scenes.photo1.image_path}
-          position={'right'}
-        />
-
+          <ScenesContent 
+            title={classe.story.scenes.photo1.title}
+            body={classe.story.scenes.photo1.body}
+            image_path={classe.story.scenes.photo1.image_path}
+            position={'right'}
+          />
+          
         <ScenesContent 
           title={classe.story.scenes.photo2.title}
           body={classe.story.scenes.photo2.body}
