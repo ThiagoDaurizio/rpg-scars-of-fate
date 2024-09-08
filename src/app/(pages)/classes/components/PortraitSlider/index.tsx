@@ -33,8 +33,8 @@ const PortraitSlider = ( { classePath }:IProps ) => {
   }
 
   return (
-    <div className="relative w-fit" >
-      <div className="w-[350px] h-[500px] overflow-hidden rounded-md">
+    <div className="relative w-fit m-auto">
+      <div className="w-[350px] h-[500px] max-w-[80vw] overflow-hidden rounded-md">
         <img className='object-cover h-full transform translate-y-[-25px]' src={`/portraits/${classePath}${actualPortrait}.png`}/>
       </div>
       <div className="absolute w-full flex justify-between top-[40%] transform translate-y-[-50%]">
