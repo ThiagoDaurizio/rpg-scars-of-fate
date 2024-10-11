@@ -39,6 +39,13 @@ const ClasseStory = ( { classe }:IProps ) => {
           image_path={classe.story.scenes.photo2.image_path}
           position={'left'}
         />
+
+        <ScenesContent 
+          title={classe.story.scenes.photo3.title}
+          body={classe.story.scenes.photo3.body}
+          image_path={classe.story.scenes.photo3.image_path}
+          position={'right'}
+        />
       </div>
     </div>
   )

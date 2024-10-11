@@ -19,6 +19,11 @@ export type TypedClasse = {
             body: string;
             image_path: string;
           };
+          photo3: {
+            title: string;
+            body: string;
+            image_path: string;
+          };
       };
   };
   theme: {
