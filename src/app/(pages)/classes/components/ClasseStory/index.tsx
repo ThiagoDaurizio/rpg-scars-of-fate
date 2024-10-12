@@ -16,15 +16,15 @@ const ClasseStory = ( { classe }:IProps ) => {
 
   return (
     <div className="h-full">
-      <h4 className="font-semibold flex gap-1 items-center mt-4">
-        {IconComponent && <IconComponent style={{color: classe.theme.color}} className="text-xl" />}
-        {classe.story.title}
-      </h4>
-      <h6 className="text-sm text-slate-400">{classe.story.subtitle}</h6>
-      <p className="text-xs mt-2" dangerouslySetInnerHTML={{ __html: classe.story.body}}/>
+            <div>
+        <h4 className="text-lg font-semibold flex gap-1 items-center mt-4">
+          {IconComponent && <IconComponent style={{color: classe.theme.color}} className="text-xl" />}
+          {classe.story.title}
+        </h4>
+        <h6 className="text-sm text-slate-400">{classe.story.subtitle}</h6>
+        <p className="text-xs mt-2" dangerouslySetInnerHTML={{ __html: classe.story.body}} />
+      </div>
 
-      
-      
       <div className="flex flex-col gap-4 mt-10">
           <ScenesContent 
             title={classe.story.scenes.photo1.title}
