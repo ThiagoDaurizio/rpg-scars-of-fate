@@ -22,17 +22,19 @@ const ClasseDescription = ( { classe }:IProps ) => {
         <p className="text-xs mt-2">{classe.description}</p>
       </div>
 
-      <div>
-        <ul>
+      {/* <div>
+        <p className="text-xs">Funções:</p>
+
+        <ul className="flex gap-4">
           {classe.roles.map((item) => {
             return(
-              <li key={item}>{item}</li>
+              <li className="text-slate-500 text-xs" key={item}>{item}</li>
             )
           })}
         </ul>
-      </div>
+      </div> */}
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-10">
         {classe.skills.map((item, index) => {
           return(
             <SkillsCards key={item.name} skill={item} index={index} color={classe.theme.color}/>
