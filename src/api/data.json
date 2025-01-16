@@ -9,7 +9,7 @@
       "story": {
         "title": "Guerreiros...",
         "subtitle": "Os aventureiros natos",
-        "body": "Uma guilda composta por aventureiros de todos os lugares de Astera, dispostos a se aventurar em busca de tesouros ou lutarem por causas que julgam serem dignas de seus esforços. Muitos seguem o lema de sua guilda de 'espíritos livres' não se apegando a culturas, deuses ou padrões fixos de vida, deixando o futuro para o amanhã, o passado para ontem e o presente para o hoje. <br/>Nada que uma boa lâmina e um forte escudo não possa combater e resistir.",
+        "body": "Uma guilda composta por aventureiros de todos os lugares de Astera, dispostos a se aventurar em busca de tesouros ou lutarem por causas que julgam serem dignas de seus esforços. Muitos seguem o lema de sua guilda de 'espíritos livres' não se apegando a culturas, deuses ou padrões fixos de vida, deixando o futuro para o amanhã, o passado para ontem e o presente para o hoje. Nada que uma boa lâmina e um forte escudo não possa combater e resistir.",
         "scenes": {
           "photo1": {
             "title": "Dinheiro na mão, pronta para a próxima!",
@@ -151,22 +151,22 @@
       "skills": [
         {
           "name": "Sinergia",
-          "body": "",
+          "body": "Os magos podem ser capazes de combinar essencias e encatamentos para conjurar ou imbuir magias, sendo versáteis em arcenal de magias compensando sua vulnerabilidade e ineficiência no combate próximo.",
           "icon_path": "mage_"
         },
         {
           "name": "Esfriou né?",
-          "body": "",
+          "body": "Capazes de usar o gelo como forma de imbuir magias, os magos podem serem mestres no controle da batalha deixando inimigos desabilitados e mais vulneráveis a futuras magias ou até mesmo conseguindo se salvar de ataques inimigos.",
           "icon_path": "mage_"
         },
         {
           "name": "Nossa, que calor!",
-          "body": "",
+          "body": "Muitas vezes a melhor defesa pode ser uma ofensiva ainda mais potente, usando do fogo para imbuir magias os magos podem causar quantiar significativas de danos aos inimigos e deixa-los em chamas aumentando ainda mais os estragos.",
           "icon_path": "mage_"
         },
         {
           "name": "Grimório",
-          "body": "",
+          "body": "Como um amante do conhecimento um mago sempre carrega contigo o seu Grimório, onde escreve suas magias, encantamento e o que for necessário para poder conjurar suas magias, abrindo ainda mais seu leque de magias.",
           "icon_path": "mage_"
         }
       ]
@@ -265,7 +265,7 @@
       "skills": [
         {
           "name": "Lâmina Maldita",
-          "body": "Rapidoz e letais, Acólitos se especializam em ataques precisos. Podendo causar grandes estragos em alvos únicos ou isolados, abatendo os mesmos antes mesmo de qualquer chance de contra-ataque.",
+          "body": "Rápidos e letais, Acólitos se especializam em ataques precisos. Podendo causar grandes estragos em alvos únicos ou isolados, abatendo os mesmos antes mesmo de qualquer chance de contra-ataque.",
           "icon_path": "acolyte_"
         },
         {
@@ -322,22 +322,22 @@
       "skills": [
         {
           "name": "Fúria Imparável",
-          "body": "",
+          "body": "Podendo entrar em frenezis de fúrias tornando-os impáraveis os Selvagens podem atropelar seus inimigos com uma onde furiosa de ataques ficando despreocupados com o dano ou controles que possam receber.",
           "icon_path": "wilden_"
         },
         {
           "name": "Selvagem",
-          "body": "",
+          "body": "A selvageria pode causar muitos efeitos como ajudar aliados em batalhas com um rujidos feroz, ou até mesmo deixar seus inimigos em desvantagens ou com medo com um urro de batalha ameassador.",
           "icon_path": "wilden_"
         },
         {
           "name": "Ferocidade",
-          "body": "",
+          "body": "Ao entrar em batalha os Selvagens imbuem suas garras com energia selvagens causando ataques poderosos e arrebatadores contra seus inimigos, podendo aumentar sua cadência ou até o impacto que os mesmo causam.",
           "icon_path": "wilden_"
         },
         {
           "name": "Ancestralidade",
-          "body": "",
+          "body": "Os Selvagens são ligados por um pacto com o seu totem escolhido podendo conjurar um espírito animal de seu totem para ajuda-lo com ataques, defesa ou auras animalescas que o ajudam em combate.",
           "icon_path": "wilden_"
         }
       ]
