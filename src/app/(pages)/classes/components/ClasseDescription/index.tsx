@@ -19,7 +19,7 @@ const ClasseDescription = ( { classe }:IProps ) => {
           {classe.name}
         </h4>
         <h6 className="text-sm text-slate-400">{classe.subtitle}</h6>
-        <p className="text-xs mt-2">{classe.description}</p>
+        <p className="text-xs mt-2" dangerouslySetInnerHTML={{ __html: classe.description }} />
       </div>
 
       {/* <div>

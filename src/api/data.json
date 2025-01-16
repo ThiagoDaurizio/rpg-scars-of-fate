@@ -60,13 +60,13 @@
     {
       "id": "clericId",
       "name": "Clérigo",
-      "subtitle": "Não temam irmãos e irmãs! a Luz de Orlin esta conosco!", 
-      "description": "",
+      "subtitle": "Não temais, irmãos e irmãs! A luz de Orlin jamais se apagará!", 
+      "description": "Clérigos dedicam sua vida à fé, a magia divinas para proteger e curar aliados ou punir seus inimigos. Servos de Orlin, suas ações são guiadas por dogmas que buscam trazer sua luz aos cantos mais escuros do mundo. Armados com poder sagrado e uma força indomável de vontade, estão sempre prontos para defender suas crenças.",
       "roles": ["Suporte", "Aggro"],
       "story": {
         "title": "Clérigos...",
         "subtitle": "Os sacerdotes de batalha da Luz",
-        "body": "",
+        "body": "Uma guilda que se une em templos e ordens como uma Irmandade Sagrada, fortalecendo laços e compartilhando milagres. Unidos por sua devoção e zelo, vivem para espalhar a palavra de Orlin, enfrentando o mal e guiando os perdidos à redenção ou ao julgamento. Muitas vezes atuando até como extremistas se recusando a ver outras religiões e crenças como algo bom perante a Orlin.",
         "scenes": {
           "photo1": {
             "title": "Iluminando as trevas.",
@@ -119,15 +119,15 @@
       "name": "Mago",
 
       "subtitle": "Prefere ser, huuum... incinerado ou congelado?", 
-      "description": "",
+      "description": "Magos podem usar de seus conhecimento e estudos para manipular o Arcano imbuindo ele com forças elementais de fogo ou gelo, para causar quantias de danos devastadoras ou desabilitar seus inimigos controlando o campo de batalha ao seu desejo. Alguns magos mais poderosos podem ser capazes de manipular até o próprio Arcano sem precisar imbui-lo com elementos, conjurando magias impactantes... Porém perigosas em mãos incapazes.",
       "roles": ["Ranged DPS", "Controle"],
       "story": {
         "title": "Magos...",
-        "subtitle": "Os dissípulos de Sar-Elam",
-        "body": "",
+        "subtitle": "Os discipulos de Sar-Elam",
+        "body": "A guilda dos magos pode sempre ser vista em grandes lugares cujo o conhecimento seja algo buscado. Seguindo o lema de que o conhecimento pode abrir qualquer fechadura, os discipulos mais atirados do grande arquimago Sar-Elam optam por viajar e se aventurar no mundo em busca de mais conhecimento Arcano escondido e tomos e pergaminhos de antigos conhecimentos guardados a sete chaves.",
         "scenes": {
           "photo1": {
-            "title": "OPA OPA!! parado ai! Rajada... CONGELANTE!!",
+            "title": "Opa fica frio ai, Rajada... CONGELANTE!!",
             "body": "Em meio à escuridão opressiva da caverna, o grupo avança cautelosamente, os ecos de suas pegadas reverberando nas paredes de pedra. Subitamente, o som de rochas se movendo e murmúrios agudos os alerta. “<i>Troggs…</i>” resmunga o guerreiro do grupo fazendo um sinal de silêncio levando o dedo indicador aos lábios. Num estalar de dedos a passagem da caverna é cercada por tais criaturas.<br/><br/>“<i>Grrrr, não temos por onde ir sem lutar…</i>”, resmunga um druida do grupo em tom sério. “<i>Tem Troggs vindo de trás e estes estão bloqueando nossa saída.</i>” terminou ele em tom calma preparando seu arco.<br/><br/>As criaturas inquietas observando-os com suas lanças apontadas inquietas aos resmungos, os passos atrás ficando cada vez mais altos e próximos.<br/><br/>“<i>Beleza, Gildor e Phelip… deixa estes da frente comigo.</i>” dispara a maga do grupo com tom de atitude. “<i>As coisas vão esfriar…</i>”<br/><br/>Sem entender direito Gildor e Phelip se entreolham mas concordam, se viram para o outro lado para lidar com o que quer que seja que esteja vindo da outra direção. “<i>Ok… Só vê se não vai fazer loucura Reniesta.</i>” diz Gildor segurando seu machado.<br/><br/>As criaturas inquietas à frente começam avançar mas começam a ouvir recitar de palavras… Aparentemente um idioma mágico que dura alguns instantes e Reniesta vira sua mão para eles que começa a brilhar em um tom azul frígido. “<i>Hora de ficarem mais de cabeça fria… RAJADA… CONGELANTE!</i>” indaga Reniesta enquanto uma onda de gelo começa a ir na direção das criaturas causando danos e deixam elas presas em meio ao gelo. “<i>Hahaha parece que vocês entraram em uma fria…</i>” termina Reniesta com uma entoação de tentativa de fazer uma piada com a situação.<br/><br/>“<i>Ohhh que merrrda…</i>” vem a voz de Gildor logo atrás aparentemente alarmado com alguma situação… “<i>Olhe é o triplo de Troggs que tínhamos na saída, pelas minhas barbas...</i>” termina ele em tom de pânico sabendo obviamente que a batalha pode ser letal devido a diferença de números.<br/><br/>“<i>Calma ai baixinho, deixa comigo…</i>” diz Reniesta em um tom estranhamente relaxado enquanto pega seu grimório de sua cintura e começa recitar palavras e as suas mãos e juntos das escritas do livros brilharem no mesmo tom de azul frígido. “<i>TEMPESTADE DE GELO!!</i>” em um piscar de olho, lanças enormes de gelo começam ser arremessadas na abertura da passagem de onde os Troggs passaram para ter acesso ao local ao qual os três se encontram e acumulando cada vez mais formando uma literal parede grossa de gelo onde antes era uma passagem da caverna. “<i>Haha… Eles vão demorar um BOM tempo para quebrar aquilo com estas armas velhas haha</i>” diz Reniesta fechando seu livro se virando para a saída. “<i>Vamos meter o pé, já temos o artefato e jaja os que estão presos conseguem se soltar também… até lá nós já estaremos bem longe.</i>” termina ela assentindo os olhares em concordâncias com seus companheiros de grupo.",
             "image_path": "mage_1"
           },
@@ -176,12 +176,12 @@
       "id": "druidId",
       "name": "Druida",
       "subtitle": "Se correr a raizes te prende! Se ficar... minha flecha te acerta.", 
-      "description": "",
+      "description": "Druidas são guardiões da natureza, conectados às forças vivas do mundo. Com suas magias, invocam vinhas, curam feridas e usam sua maestria no arco e flecha para abater inimigos à distância. Astutos e seguidores dos deuses ancestrais, seguem os antigos caminhos, protegendo o equilíbrio com precisão e poder ancestral. Qualquer coisa que abale a semente da vida ou Elora, a Árvore Mãe... É inimigo dos druidas.",
       "roles": ["ranged DPS", "Suporte"],
       "story": {
         "title": "Druidas...",
         "subtitle": "Os filhos das florestas",
-        "body": "",
+        "body": "A guilda dos Druidas é a mais reclusa, marcada por antigos conflitos com outras guildas, especialmente a dos clérigos, que os perseguiam como servos do mal por venerarem deuses ancestrais da natureza. Apesar das cicatrizes, os Druidas mantêm suas tradições e ritos como algo interno deles. Apenas aqueles nascidos na guilda podem se tornar parte dela.",
         "scenes": {
           "photo1": {
             "title": "Hora de enfrentar a ira da natureza!",
@@ -233,12 +233,12 @@
       "id": "acolyteId",
       "name": "Acólito",
       "subtitle": "Os ignorantes temem aquilo que não conseguem entender...", 
-      "description": "",
+      "description": "Acólitos caminham entre o mundo mortal e o plano do Umbral, explorando o desconhecido em busca de poder e mistério. Sem seguir dogmas ou moralidade, eles realizam rituais sombrios e manipulam as forças das trevas para alcançar seus objetivos. Mestres em canalizar energias arcanas, são tão letais com uma adaga quanto com suas artes místicas, deixando uma trilha de caos e segredos.",
       "roles": ["Dual DPS", "Controle"],
       "story": {
         "title": "Acólitos...",
         "subtitle": "Os renegados pelo destino",
-        "body": "",
+        "body": "Os Acólitos preferem a independência, mas há círculos secretos como a Aliança dos Sussurros, onde trocam saberes e recursos. Guiados pelo pragmatismo e pela promessa de poder, desprezam deuses e culturas, vivendo pelo momento. Para eles, tudo é passageiro – exceto os segredos que carregam e o eco de suas ações nas sombras.",
         "scenes": {
           "photo1": {
             "title": "Esta será tua nova casa!",
@@ -246,8 +246,8 @@
             "image_path": "acolyte_1"
           },
           "photo2": {
-            "title": "Um padrão de runas deveras diferente...",
-            "body": "",
+            "title": "Um poder além do alcance",
+            "body": "(...) O som dos de vozes sussurrantes ecoava pelo grande salão com paredes de tijolos de pedras desgastados pelo tempo, a sensação de ser um local pouco visitado era gritante. O salão parecia vazio, exceto por um altar no centro contendo o que parecia um livro rustico e misterioso, iluminado pelas chamas das tochas de cor púrpura nas paredes. <br/><br/>Era noite de Eclipse. Uma noite em que o véu entre os mundos se tornava mais fino, permitindo que forças e entidades deveras misteriosas vagavam livres. E como uma Acólita, era uma chance perfeita para Inara canalizar aquelas forças antes que caíssem em mãos erradas.<br/><i>“Está tudo preparado?”</i>, ecoou uma voz rouca das sombras. Era o tutor de Inara, Aradan, um ser deveres misterioso. Sua pele umbral e olhos vermelhos, deixavam muitos na dúvida se ele seria um humano, um elfo ou shar. <br/><br/>Inara assentiu, puxando um pequeno frasco dourado de sua bolsa. Nele, uma essência negra reluzia como piche, mas quando exposta a luz do altar, cintilava em tons de púrpura e preta.<br/><br/><i>“A essência de Nyxor está aqui. Mas não consigo deixar de pensar… estamos prontos para o que pode acontecer?”</i>, Inara questionou em um tom hesitante olhando para o frasco.<br/><br/>Aradan soltou uma risada seca. <i>“Ninguém jamais está realmente para tocar o desconhecido, menina. Mas é por isso que temos o que temos. Acólitos não pensam ‘consequências’ mas sim em resultados! Deixem estas questões morais e frescuras para Clérigos e Druidas… e afins.”</i>, constatou Aradan em um tom sarcástico porém sincero.  <i>“Agora, comece o ritual ou deixe que eu prossiga. Há muito Umbral para absorvermos aqui.”</i>, terminou Aradan serrilhando os olhos virando-se para o Altar.<br/><br/>Inara derramou a essência em volta do altar formando um círculo com runas escritas que a haviam sido ensinadas. Cada linhas brilhavam com uma luz roxa característica do Umbral, como se a magia tivesse vida próxima. Após escrever as runas Inara se sentou no altar do centro delas e pousou o livro em seu colo abrindo-o para começar proferir as palavras. <i>“Anu-arak” “Chumah” “Iderk Alah”</i>, proferia Inara de forma pausada porém em um fluxo constante. <br/><br/>Assim que as últimas palavras do ritual saírem de seus lábios, o Eclipse alcançou seu ápice. O ar ficou denso, quase palpável e o grande salão de tijolos desgastados parecia girar. Inara olhou de relance para Aradan e o mesmo se encontrava imóvel, centrado e sério como uma estátua. <i>“Continue!! vai ter medinho agora é!?”</i>, o mesmo soltou em um tom seco porém zombeteiro… <i>“Isso não é nada perto de…”</i>, dizia Aradan quando foi bruscamente interrompido por um clarão de cor púrpura. Foi quando eles começaram a aparecer.<br/><br/>Figuras encapuzadas surgiram na escuridão, espectros dos antigos umbrais. Seus olhos brilhavam como brasas, e suas vozes ecoavam como um cântico distante.<br/><i>“Você se atreve a nos convocar, mortal?”</i>, um deles perguntou, com um tom que oscilava entre o desprezo e a curiosidade.<br/><br/>Inara manteve a postura firme, apesar do suor frio em sua nuca. <i>“Ora Ora, vocês estão aqui, e eu estou no centro do altar não?”</i>, retruca Inara em um tom desafiador. <i>“Ou os três patetas ficaram tanto tempo adormecidos que perderam a capacidade de pensar?”</i>, terminou em um misto de desprezo e desdém com as entidades recém chamadas enquanto se levantava do altar e pousava o livro no mesmo pegando sua adaga da cintura que brilhava em vermelho como uma chama.<br/><br/>Os espectros se aproximaram, circulando-a como lobos cercando sua presa.<br/><i>“Corajosa… ou tola.”</i>, um deles sussurrou.<br/><i>“Mortais, um poço de ignorância.”</i>, outro disse olhando-a fixamente.<br/><br/>Mas antes que pudessem avançar, Aradan aparece como uma sombra nas costas de um cravando sua adaga no crânio de um dos espectros. <i>“Toma!”</i>, grunhiu Aradan ao ver a figura cair no chão duro de pedra se debatendo como se uma corrente elétrica passasse por seu corpo. <br/><br/>Aproveitando o que os outros dois espectros desviaram a atenção para o ocorrido como uma lâmina nas sombras Inara entra nas sombras quase se fundindo com a mesma ficando praticamente invisível, aparecendo reposicionada mais distante dos espectros. <i>“Garra do Abismo!”</i>, gritou Inara estridente apontando sua adaga para um dos espectros fazendo uma mão demoníaca roxa sair do solo e agarrá-lo esmigalhando o mesmo em uma poeira púrpura.<br/><br/>Abismado com a rapidez do ocorrido o último espectro recua. <i>“Malditos!”</i>, resmunga o último em um tom de desprezo com ira canalizando alguma magia.<br/><br/>Em um gesto rápido Aradan murmura algum encantamento em sua adaga que começa a brilhar em um tom púrpura e atira no espectro acertando e ficando alojada em seu ombro direito. <i>“Sem conjurações para você hoje…”</i>, retruca Aradan com uma voz sádica. <br/><br/>A magia ou o que quer que seja que o espectro estava conjurando parece falhar e perde o efeito, como se a adaga encantada ao atingir seu ombro tivesse selado seus poderes mágicos temporariamente. <i>“Ahhh, vocês não sabem com o que estão mexendo…”</i>, resmungava o último espectro antes de ser abruptamente interrompido por uma outra adaga atravessando seu coração. <br/><br/><i>“Vamos calar a boquinha meu anjo?”</i>, terminou Inara removendo sua adaga do coração do espectro que se encontrava caído no chão frio de pedra se debatendo igual o primeiro a cair.<br/><br/><i<i>“Rápida e mortal, como sempre… ou quase sempre.”</i>, elogiou Aradan com seu clássico jeito seco e sádico de falar. <i>“Como você que executou o ritual, dois para você e um para mim, não pareciam muito fortes, mas deve ter essência Umbral abessa para nós absorver para as adagas.”</i>, disse Aradan removendo sua adaga do corpo ao chão.<br/><br/><i>“Estes não eram fortes, pareciam ser talvez apenas… ‘discípulos’ de Nyxor?”</i>, perguntou Inara em um tom reflexivo. <i>“Obviamente Nyxor não ficará feliz com isso, e vai querer se vingar, sendo discípulos ou não”</i>, constatou Inara.<br/><br/><i>“Ui Nyxor ta bravinho, ai ui ele vai querer nos matar”</i>, respondeu Aradan com um semblante seco e debochado. <i>“Somos Acólitos, qualquer entidade ou ser Umbral nos odeia haha”</i>, esclarece Aradan em um tom mais sério. <i>“Este só será apenas mais ou só um mais puto que os outros, não faz diferença é assim que vivemos é assim que combatemos… usamos os poderes deles contra eles.”</i>, terminou dando de ombros à Inara que assentiu com a cabeça mostrando que entendia o que ele disse.<br/><br/>Ao estenderem seus punhais diante dos espectros abatidos os mesmo começaram a brilhar em uma cor púrpura e uma essência roxa sai de seus olhos e bocas adentro nos punhais. <i>“Pronto, está feito, fodasse Nyxor e sua ira… Adagas do Pacto recarregadas. Agora vamos sair daqui.”</i>, concluiu Inara caminhando na direção da porta do grande salão. (...)",
             "image_path": "acolyte_2"
           },
           "photo3": {
@@ -265,22 +265,22 @@
       "skills": [
         {
           "name": "Lâmina Maldita",
-          "body": "",
+          "body": "Rapidoz e letais, Acólitos se especializam em ataques precisos. Podendo causar grandes estragos em alvos únicos ou isolados, abatendo os mesmos antes mesmo de qualquer chance de contra-ataque.",
           "icon_path": "acolyte_"
         },
         {
           "name": "Sabotador",
-          "body": "",
+          "body": "Acólitos possuem um arsenal de magias que usam para enfraquecer as resistências de seus inimigos o inativando eles, fazendo seus ataques serém ainda mais letais e precisos contra seus alvos.",
           "icon_path": "acolyte_"
         },
         {
-          "name": "Pacto",
-          "body": "",
+          "name": "Culto Esquecido",
+          "body": "Vindos de uma antiga guilda renegada, os Acólitos seguem suas próprias regras e leis, não são seres malignos emboras muitos os veem assim, mas também não se preocupam com ética, moral ou honra.",
           "icon_path": "acolyte_"
         },
         {
           "name": "Sifão de Alma",
-          "body": "",
+          "body": "A fonte dos poderes dos Acólitos vem do umbral, eles são capazes de drenar tais forças de suas vitimas para usar contra elas mesmas, embora seja uma magia vista com más olhos para os outros.",
           "icon_path": "acolyte_"
         }
       ]
@@ -290,12 +290,12 @@
       "id": "wildenId",
       "name": "Selvagem",
       "subtitle": "Ouçam o chamado! O mundo é selvagem!", 
-      "description": "",
+      "description": "Os Selvagens são guerreiros tribais oriundos das montanhas nevadas do norte, vivendo em harmonia com os elementos e os espíritos da natureza. Incorporam as qualidades de animais totêmicos, como a força do urso, a astúcia do lobo ou a sabedoria da águia. Essa conexão exige um grande custo físico e espiritual, tornando-se uma habilidade poderosa, mas limitada. Além disso, possuem um guardião espiritual que pode trocar de lugar com eles, permitindo que se tornem o espírito enquanto o guardião assume forma material, dependendo do totem que seguem.",
       "roles": ["Meele DPS", "Aggro"],
       "story": {
         "title": "Selvagens...",
         "subtitle": "Os seguidores do indomável",
-        "body": "",
+        "body": "Os Selvagens não seguem civilizações ou cidades; suas tribos reúne guerreiros ligados às tradições primitivas e espirituais. O Clã dos Selvagens é o mais conhecido, centrado nos Totens da Força (Urso), da Sabedoria (Águia) e da Astúcia (Lobo). Cada membro do clã busca honrar seu totem, fortalecendo sua conexão com os espíritos ancestrais e vivendo pela liberdade e pela sobrevivência. Para eles, o mundo é o verdadeiro templo, e cada batalha é uma oferenda à natureza selvagem que os guia.",
         "scenes": {
           "photo1": {
             "title": "Arrrg, a fúria de Urdi corre em inhas veias!",
