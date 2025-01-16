@@ -40,8 +40,8 @@ const PortraitSlider = ( { classePath }:IProps ) => {
         <img className='object-cover h-full transform translate-y-[-25px]' src={`/portraits/${classePath}${actualPortrait}.png`}/>
       </div>
       <div className="absolute w-full flex justify-between top-[40%] transform translate-y-[-50%]">
-        <button className="text-4xl" onClick={() => handleArrows(false)}><genericIcons.ArrowToLeft/></button>
-        <button className="text-4xl" onClick={() => handleArrows(true)}><genericIcons.ArrowToRight/></button>
+        <button className="text-4xl transition-transform duration-300 hover:-translate-x-1 hover:scale-110" onClick={() => handleArrows(false)}><genericIcons.ArrowToLeft/></button>
+        <button className="text-4xl transition-transform duration-300 hover:translate-x-1 hover:scale-110" onClick={() => handleArrows(true)}><genericIcons.ArrowToRight/></button>
       </div>
     </div>
   )

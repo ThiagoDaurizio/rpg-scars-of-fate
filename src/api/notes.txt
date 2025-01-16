@@ -1,0 +1,25 @@
+{
+  scenes: [
+    {
+      title: ""
+      banner: ""
+      content: [
+        {
+          image: ""
+          position: "left" | "below" | "right",
+          textBody: ""
+        },
+                {
+          image: ""
+          position: "left" | "below" | "right",
+          textBody: ""
+        },
+        {
+          image: ""
+          position: "left" | "below" | "right",
+          textBody: ""
+        }
+      ]
+    }
+  ]
+}
