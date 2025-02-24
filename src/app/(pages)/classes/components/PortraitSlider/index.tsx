@@ -7,6 +7,8 @@ interface IProps {
   classePath: string
 }
 
+
+
 const PortraitSlider = ( { classePath }:IProps ) => {
   const [actualPortrait, set_actualPortrait] = useState<number>(1)
 

@@ -16,7 +16,7 @@ const ClasseStory = ( { classe }:IProps ) => {
 
   return (
     <div className="h-full">
-            <div>
+      <div>
         <h4 className="text-lg font-semibold flex gap-1 items-center mt-4">
           {IconComponent && <IconComponent style={{color: classe.theme.color}} className="text-xl" />}
           {classe.story.title}
