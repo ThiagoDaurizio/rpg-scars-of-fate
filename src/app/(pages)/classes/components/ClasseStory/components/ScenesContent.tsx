@@ -47,7 +47,7 @@ const ScenesContent = ( { image_path, title, body, position }:IProps ) => {
   }
 
   return (
-    <div className={`flex flex-col-reverse ${position === 'left' ? 'lg:flex-row-reverse' : 'lg:flex-row'} lg:gap-4 ${position === 'right' ? 'justify-end' : 'justify-start'}`}>
+    <div className={`flex flex-col-reverse min-h-[350px] ${position === 'left' ? 'lg:flex-row-reverse' : 'lg:flex-row'} lg:gap-4 ${position === 'right' ? 'justify-end' : 'justify-start'}`}>
       <div className="flex flex-col items-end w-full">
         <h5 className="text-center lg:text-end pr-2 w-full font-semibold text-lg text-amber-400">{title}</h5>
         <CompDivisor />
