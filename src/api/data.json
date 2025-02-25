@@ -51,7 +51,7 @@
         },
         {
           "name": "Um X marca o local!",
-          "body": "a Guida dos Lâminas dos Ventos, ou Guilda dos Guerreiros, são compostadas de aventureiros natos e mercenários aptos, fazendo os mesmo serem especialistas em lidar com diversos tipos de ambientes e terrenos, por prática tendo sempre uma failidade maior de achar o que vieram buscar.",
+          "body": "A Guilda dos Guerreiros, é composta de aventureiros natos e mercenários aptos, fazendo os mesmo serem especialistas em lidar com diversos tipos de ambientes e terrenos, por prática tendo sempre uma facilidade maior de achar o que vieram buscar.",
           "icon_path": "warrior_"
         }
       ]
@@ -295,7 +295,7 @@
       "story": {
         "title": "Selvagens...",
         "subtitle": "Os seguidores do indomável",
-        "body": "Os Selvagens não seguem civilizações ou cidades; suas tribos reúne guerreiros ligados às tradições primitivas e espirituais. O Clã dos Selvagens é o mais conhecido, centrado nos Totens da Força (Urso), da Sabedoria (Águia) e da Astúcia (Lobo). Cada membro do clã busca honrar seu totem, fortalecendo sua conexão com os espíritos ancestrais e vivendo pela liberdade e pela sobrevivência. Para eles, o mundo é o verdadeiro templo, e cada batalha é uma oferenda à natureza selvagem que os guia.",
+        "body": "Os Selvagens não seguem civilizações ou cidades, suas tribos reúne seguidores ligados às tradições primitivas e espirituais. O Clã dos Selvagens é o mais conhecido, centrado nos Totens: da Força (Urso), da Sabedoria (Águia) e da Astúcia (Lobo). Cada membro do clã busca honrar seu totem, fortalecendo sua conexão com os espíritos ancestrais lutando e vivendo por esta conexão bestial. Para eles, o mundo é um templo, e cada batalha é uma oferenda à natureza selvagem que os guia.",
         "scenes": {
           "photo1": {
             "title": "Arrrg, a fúria de Urdi corre em minhas veias!",
