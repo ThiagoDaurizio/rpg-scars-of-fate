@@ -13,16 +13,19 @@ export type TypedClasse = {
               title: string;
               body: string;
               image_path: string;
+              casts?: TypedCast[]
           };
           photo2: {
             title: string;
             body: string;
             image_path: string;
+            casts?: TypedCast[]
           };
           photo3: {
             title: string;
             body: string;
             image_path: string;
+            casts?: TypedCast[]
           };
       };
   };
@@ -38,3 +41,10 @@ export type TypedClasse = {
   }[];
 }
 
+
+export type TypedCast = {
+  name: string;
+  subname: string;
+  pre_path: string;
+  image_path: string;
+}

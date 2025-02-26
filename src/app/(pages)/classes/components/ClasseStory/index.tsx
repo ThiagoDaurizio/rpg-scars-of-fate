@@ -30,6 +30,7 @@ const ClasseStory = ( { classe }:IProps ) => {
             title={classe.story.scenes.photo1.title}
             body={classe.story.scenes.photo1.body}
             image_path={classe.story.scenes.photo1.image_path}
+            casts={classe.story.scenes.photo1.casts || []}
             position={'right'}
           />
           
@@ -37,6 +38,7 @@ const ClasseStory = ( { classe }:IProps ) => {
           title={classe.story.scenes.photo2.title}
           body={classe.story.scenes.photo2.body}
           image_path={classe.story.scenes.photo2.image_path}
+          casts={classe.story.scenes.photo2.casts|| []}
           position={'left'}
         />
 
@@ -44,6 +46,7 @@ const ClasseStory = ( { classe }:IProps ) => {
           title={classe.story.scenes.photo3.title}
           body={classe.story.scenes.photo3.body}
           image_path={classe.story.scenes.photo3.image_path}
+          casts={classe.story.scenes.photo3.casts || []}
           position={'right'}
         />
       </div>
