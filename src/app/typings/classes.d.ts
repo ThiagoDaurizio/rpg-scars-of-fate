@@ -1,5 +1,3 @@
-enum 
-
 export type TypedClasse = {
   id: string;
   name: string;
@@ -7,27 +5,12 @@ export type TypedClasse = {
   description: string;
   roles: string[];
   statsSheet: {
-    primaryAttribute: 'Corpo' | 'Espírito' | 'Mente' | 'Agilidade',
-        hpCalc: string,
-        savingThrowsProfs: string[]
-        skillsThrowsProfs: [, ],
-        skillsThrowsAmount: 0,
-        weaponyProfs: [],
-        armoryProfs: [],
-        startingItems: [
-          {
-            body: ,
-            mainHand: ,
-            offHand: ,
-            extras: [, ]
-          },
-          {
-            body: ,
-            mainHand: ,
-            offHand: ,
-            extras: [, ]
-          }
-        ]
+    primaryAttribute: string,
+        skillsThrowsProfs: string[],
+        skillsThrowsAmount: number,
+        weaponyProfs: string[],
+        armoryProfs: string[],
+        startingItems: TypedStartingItems[]
   }
   story: {
       title: string;
@@ -65,7 +48,16 @@ export type TypedClasse = {
     icon_path: string;
   }[];
 }
+export type TypedAttribute = "Corpo" | "Mente" | "Agilidade" | ""
 
+export type TypedSavingThrowsProfs = "História" | "Religião" | "Natureza" | "Arcanismo" | "" | "..."
+
+export type TypedStartingItems = {
+  body: string
+  mainHand: string
+  offHand: string
+  extras: string[]
+}
 
 export type TypedCast = {
   name: string;

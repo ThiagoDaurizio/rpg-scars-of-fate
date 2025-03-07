@@ -6,6 +6,27 @@
       "subtitle": "O que seria a honra sem a glória?", 
       "description": "Guerreiros muitas vezes atuam como mercenários para conseguirem sobreviver e ter glória e dinheiro, muitas vezes se alistando como soldados pessoais de algum lorde ou então aceitando missões e trabalhos para faturar uma grana ou até mesmo conseguir tesouros e causa que acham dignas de seu tempo e esforço. Sempre focados em aperfeiçoar suas artes de combate são inatos com vários tipos de armas e armaduras, podendo executar como excelentes combatentes causando feridas profundas em seu inimigos ou até mesmo sendo resilientes para ataques dos mesmos.",
       "roles": ["DPS meele", "Aggro"],
+      "statsSheet": {
+        "primaryAttribute": "Corpo",
+        "skillsThrowsProfs": ["...", "..."],
+        "skillsThrowsAmount": 0,
+        "weaponyProfs": ["..."],
+        "armoryProfs": ["..."],
+        "startingItems": [
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          },
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          }
+        ]
+      },
       "story": {
         "title": "Guerreiros...",
         "subtitle": "Os aventureiros natos",
@@ -84,25 +105,23 @@
       "description": "Clérigos dedicam sua vida à fé, a magia divinas para proteger e curar aliados ou punir seus inimigos. Servos de Orlin, suas ações são guiadas por dogmas que buscam trazer sua luz aos cantos mais escuros do mundo. Armados com poder sagrado e uma força indomável de vontade, estão sempre prontos para defender suas crenças.",
       "roles": ["Suporte", "Aggro"],
       "statsSheet": {
-        "primaryAttribute": "",
-        "hpCalc": "",
-        "savingThrowsProfs": ["", ""],
-        "skillsThrowsProfs": ["", ""],
+        "primaryAttribute": "Mente",
+        "skillsThrowsProfs": ["...", "..."],
         "skillsThrowsAmount": 0,
-        "weaponyProfs": [""],
-        "armoryProfs": [""],
+        "weaponyProfs": ["..."],
+        "armoryProfs": ["..."],
         "startingItems": [
           {
             "body": "",
             "mainHand": "",
             "offHand": "",
-            "extras": ["", ""]
+            "extras": ["...", "..."]
           },
           {
             "body": "",
             "mainHand": "",
             "offHand": "",
-            "extras": ["", ""]
+            "extras": ["...", "..."]
           }
         ]
       },
@@ -164,6 +183,27 @@
       "subtitle": "Prefere ser, huuum... incinerado ou congelado?", 
       "description": "Magos podem usar de seus conhecimento e estudos para manipular o Arcano imbuindo ele com forças elementais de fogo ou gelo, para causar quantias de danos devastadoras ou desabilitar seus inimigos controlando o campo de batalha ao seu desejo. Alguns magos mais poderosos podem ser capazes de manipular até o próprio Arcano sem precisar imbui-lo com elementos, conjurando magias impactantes... Porém perigosas em mãos incapazes.",
       "roles": ["Ranged DPS", "Controle"],
+      "statsSheet": {
+        "primaryAttribute": "Mente",
+        "skillsThrowsProfs": ["...", "..."],
+        "skillsThrowsAmount": 0,
+        "weaponyProfs": ["..."],
+        "armoryProfs": ["..."],
+        "startingItems": [
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          },
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          }
+        ]
+      },
       "story": {
         "title": "Magos...",
         "subtitle": "Os discipulos de Sar-Elam",
@@ -291,6 +331,27 @@
       "subtitle": "Se correr a raizes te prende! Se ficar... minha flecha te acerta.", 
       "description": "Druidas são guardiões da natureza, conectados às forças vivas do mundo. Com suas magias, invocam vinhas, curam feridas e usam sua maestria no arco e flecha para abater inimigos à distância. Astutos e seguidores dos deuses ancestrais, seguem os antigos caminhos, protegendo o equilíbrio com precisão e poder ancestral. Qualquer coisa que abale a semente da vida ou Elora, a Árvore Mãe... É inimigo dos druidas.",
       "roles": ["ranged DPS", "Suporte"],
+      "statsSheet": {
+        "primaryAttribute": "Agilidade",
+        "skillsThrowsProfs": ["...", "..."],
+        "skillsThrowsAmount": 0,
+        "weaponyProfs": ["..."],
+        "armoryProfs": ["..."],
+        "startingItems": [
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          },
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          }
+        ]
+      },
       "story": {
         "title": "Druidas...",
         "subtitle": "Os filhos das florestas",
@@ -348,6 +409,27 @@
       "subtitle": "Os ignorantes temem aquilo que não conseguem entender...", 
       "description": "Acólitos caminham entre o mundo mortal e o plano do Umbral, explorando o desconhecido em busca de poder e mistério. Sem seguir dogmas ou moralidade, eles realizam rituais sombrios e manipulam as forças das trevas para alcançar seus objetivos. Mestres em canalizar energias arcanas, são tão letais com uma adaga quanto com suas artes místicas, deixando uma trilha de caos e segredos.",
       "roles": ["Dual DPS", "Controle"],
+      "statsSheet": {
+        "primaryAttribute": "Agilidade",
+        "skillsThrowsProfs": ["...", "..."],
+        "skillsThrowsAmount": 0,
+        "weaponyProfs": ["..."],
+        "armoryProfs": ["..."],
+        "startingItems": [
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          },
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          }
+        ]
+      },
       "story": {
         "title": "Acólitos...",
         "subtitle": "Os renegados pelo destino",
@@ -433,6 +515,27 @@
       "subtitle": "Ouçam o chamado! O mundo é selvagem!", 
       "description": "Os Selvagens são guerreiros tribais oriundos das montanhas nevadas do norte, vivendo em harmonia com os elementos e os espíritos da natureza. Incorporam as qualidades de animais totêmicos, como a força do urso, a astúcia do lobo ou a sabedoria da águia. Essa conexão exige um grande custo físico e espiritual, tornando-se uma habilidade poderosa, mas limitada. Além disso, possuem um guardião espiritual que pode trocar de lugar com eles, permitindo que se tornem o espírito enquanto o guardião assume forma material, dependendo do totem que seguem.",
       "roles": ["Meele DPS", "Aggro"],
+      "statsSheet": {
+        "primaryAttribute": "Corpo",
+        "skillsThrowsProfs": ["...", "..."],
+        "skillsThrowsAmount": 0,
+        "weaponyProfs": ["..."],
+        "armoryProfs": ["..."],
+        "startingItems": [
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          },
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["...", "..."]
+          }
+        ]
+      },
       "story": {
         "title": "Selvagens...",
         "subtitle": "Os seguidores do indomável",

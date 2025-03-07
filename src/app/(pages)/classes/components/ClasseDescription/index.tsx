@@ -1,8 +1,9 @@
-import { TypedClasse } from '@/app/typings/classes'
+
 import React from 'react'
 import SkillsCards from './components/SkillsCards'
 import { getClasseIcon } from '@/app/utils/getClasseIcon'
 import ClasseStats from './components/ClasseStats'
+import { TypedClasse } from '@/app/typings/classes'
 
 interface IProps {
   classe: TypedClasse
