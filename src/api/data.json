@@ -83,6 +83,29 @@
       "subtitle": "Não temais, irmãos e irmãs! A luz de Orlin jamais se apagará!", 
       "description": "Clérigos dedicam sua vida à fé, a magia divinas para proteger e curar aliados ou punir seus inimigos. Servos de Orlin, suas ações são guiadas por dogmas que buscam trazer sua luz aos cantos mais escuros do mundo. Armados com poder sagrado e uma força indomável de vontade, estão sempre prontos para defender suas crenças.",
       "roles": ["Suporte", "Aggro"],
+      "statsSheet": {
+        "primaryAttribute": "",
+        "hpCalc": "",
+        "savingThrowsProfs": ["", ""],
+        "skillsThrowsProfs": ["", ""],
+        "skillsThrowsAmount": 0,
+        "weaponyProfs": [""],
+        "armoryProfs": [""],
+        "startingItems": [
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["", ""]
+          },
+          {
+            "body": "",
+            "mainHand": "",
+            "offHand": "",
+            "extras": ["", ""]
+          }
+        ]
+      },
       "story": {
         "title": "Clérigos...",
         "subtitle": "Os sacerdotes de batalha da Luz",

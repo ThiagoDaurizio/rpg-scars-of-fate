@@ -1,9 +1,34 @@
+enum 
+
 export type TypedClasse = {
   id: string;
   name: string;
   subtitle: string;
   description: string;
   roles: string[];
+  statsSheet: {
+    primaryAttribute: 'Corpo' | 'Espírito' | 'Mente' | 'Agilidade',
+        hpCalc: string,
+        savingThrowsProfs: string[]
+        skillsThrowsProfs: [, ],
+        skillsThrowsAmount: 0,
+        weaponyProfs: [],
+        armoryProfs: [],
+        startingItems: [
+          {
+            body: ,
+            mainHand: ,
+            offHand: ,
+            extras: [, ]
+          },
+          {
+            body: ,
+            mainHand: ,
+            offHand: ,
+            extras: [, ]
+          }
+        ]
+  }
   story: {
       title: string;
       subtitle: string;
