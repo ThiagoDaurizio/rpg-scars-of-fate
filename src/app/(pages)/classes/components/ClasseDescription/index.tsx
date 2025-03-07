@@ -2,6 +2,7 @@ import { TypedClasse } from '@/app/typings/classes'
 import React from 'react'
 import SkillsCards from './components/SkillsCards'
 import { getClasseIcon } from '@/app/utils/getClasseIcon'
+import ClasseStats from './components/ClasseStats'
 
 interface IProps {
   classe: TypedClasse
@@ -22,24 +23,16 @@ const ClasseDescription = ( { classe }:IProps ) => {
         <p className="text-xs mt-2" dangerouslySetInnerHTML={{ __html: classe.description }} />
       </div>
 
-      {/* <div>
-        <p className="text-xs">Funções:</p>
-
-        <ul className="flex gap-4">
-          {classe.roles.map((item) => {
-            return(
-              <li className="text-slate-500 text-xs" key={item}>{item}</li>
-            )
-          })}
-        </ul>
-      </div> */}
-
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-10">
         {classe.skills.map((item, index) => {
           return(
             <SkillsCards key={item.name} skill={item} index={index} color={classe.theme.color}/>
           )
         })}
+      </div>
+
+      <div>
+        <ClasseStats classe={classe}/>
       </div>
     </div>
   )
