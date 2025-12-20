@@ -6,7 +6,8 @@ import { genericIcons } from '@/app/assets/icons'
 const menuItems = [
   {url: '/', label: 'Inicio'},
   {url: '/classes', label: 'Classes'},
-  {url: '/bestiary', label: 'Bestiário'}
+  {url: '/bestiary', label: 'Bestiário'},
+  {url: '/lore/dieties', label: 'Divindades'}
 ]
 
 const Menubar = () => {

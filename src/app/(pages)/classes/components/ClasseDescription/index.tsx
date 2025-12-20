@@ -21,7 +21,7 @@ const ClasseDescription = ( { classe }:IProps ) => {
           {classe.name}
         </h4>
         <h6 className="text-sm text-slate-400">{classe.subtitle}</h6>
-        <p className="text-xs mt-2" dangerouslySetInnerHTML={{ __html: classe.description }} />
+        <p className="text-xs mt-2 min-h-20" dangerouslySetInnerHTML={{ __html: classe.description }} />
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-10">
@@ -32,9 +32,9 @@ const ClasseDescription = ( { classe }:IProps ) => {
         })}
       </div>
 
-      <div>
+      {/* <div className="mt-4">
         <ClasseStats classe={classe}/>
-      </div>
+      </div> */}
     </div>
   )
 }

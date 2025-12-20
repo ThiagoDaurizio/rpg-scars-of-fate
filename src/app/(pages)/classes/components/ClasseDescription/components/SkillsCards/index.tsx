@@ -13,7 +13,7 @@ interface IProps {
 
 const SkillsCards = ( { skill, index, color }:IProps ) => {
   return (
-    <div className="flex gap-2 border border-slate-400 p-1 rounded-md">
+    <div className="flex gap-2 border border-slate-400 bg-slate-900/80 p-1 rounded-md">
       <div className="flex-shrink-0">
         <img className="rounded-sm" src={`/skills/${skill.icon_path}${index}.png`} />
       </div>
