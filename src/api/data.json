@@ -14,13 +14,13 @@
         "armoryProfs": ["..."],
         "startingItems": [
           {
-            "body": "",
+            "body": "1",
             "mainHand": "",
             "offHand": "",
             "extras": ["...", "..."]
           },
           {
-            "body": "",
+            "body": "2",
             "mainHand": "",
             "offHand": "",
             "extras": ["...", "..."]
@@ -583,6 +583,270 @@
           "name": "Ancestralidade",
           "body": "Os Selvagens são ligados por um pacto com o seu totem escolhido podendo conjurar um espírito animal de seu totem para ajuda-lo com ataques, defesa ou auras animalescas que o ajudam em combate.",
           "icon_path": "wilden_"
+        }
+      ]
+    }
+  ],
+
+  "dietiesList": [
+    {
+      "id": 1,
+      "name": "Orlin",
+      "title": "O Sentinela",
+      "alignment": "Leal Bondoso",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Elora",
+      "title": "A Mãe",
+      "alignment": "Neutra Bondosa",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fir",
+      "title": "O Caçador",
+      "alignment": "Caótico Bondoso",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Avandra",
+      "title": "A Purgadora",
+      "alignment": "Leal Neutra",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nymus",
+      "title": "Vigilante",
+      "alignment": "Neutro",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Undr",
+      "title": "O Bestial",
+      "alignment": "Caótico Neutro",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nerur",
+      "title": "O Enganador",
+      "alignment": "Leal Mal",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Biara",
+      "title": "A Vil",
+      "alignment": "Neutra Mal",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Karox",
+      "title": "O Destruidor",
+      "alignment": "Caótico Mal",
+      "description": "",
+      "body": "",
+      "followers": [
+        {
+          "classe": "",
+          "classe_path": "",
+          "description": ""
+        }
+      ],
+      "dogmas": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
         }
       ]
     }

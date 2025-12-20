@@ -1,8 +1,6 @@
 'use client'
 import { TypedClasse } from '@/app/typings/classes'
-import React, { ReactNode } from 'react'
-import ScenesImageWrapper from './components/ScenesContent'
-import CompDivisor from '@/app/components/CompDivisor'
+import React from 'react'
 import { getClasseIcon } from '@/app/utils/getClasseIcon' 
 import ScenesContent from './components/ScenesContent'
 
@@ -22,7 +20,7 @@ const ClasseStory = ( { classe }:IProps ) => {
           {classe.story.title}
         </h4>
         <h6 className="text-sm text-slate-400">{classe.story.subtitle}</h6>
-        <p className="text-xs mt-2" dangerouslySetInnerHTML={{ __html: classe.story.body}} />
+        <p className="text-xs mt-2 min-h-20" dangerouslySetInnerHTML={{ __html: classe.story.body}} />
       </div>
 
       <div className="flex flex-col gap-4 mt-10">
